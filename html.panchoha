@@ -1,0 +1,96 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+<div class="top"></div>
+<img class="logo" src="logo.png">
+<h1>Магазин домашнего текстиля</h1>
+<nav>
+<a href="#kat">Каталог</a>
+<a href="#review">Отзывы</a>
+<a href="#adres">где мы находимся</a>
+ <a href="#about">Про Нас</a>
+</nav>       
+</header>
+
+<main>
+<div class="wrap" id="about">
+  <img class="photo" src="https://otosocks.com/eng_pl_Mens-Womens-SOXO-socks-free-Ukraine-23825_1.jpg">
+   
+      <p>Интернет-магазин «PANCHOHAKH» ― сучасний стильний магазин з широким вибором панчішно-шкарпеткових виробів (понад 5000 найменувань) і нижнього чоловічої та дитячої білизни (понад 1000 найменувань різних фірм). 
+   <br> <br> Майже вся продукція сертифікована і відповідає стандартам України.
+
+<br><br>За довгі роки нашої роботи розширений портфель брендів. З багатьма провідними представниками підписані контракти, що дозволило позбавитися від посередників,</p>
+ 
+      <p>I як наслідок – зробити ціни для Вас більш доступними. 
+Накопичений досвід в даній області дозволяє організувати роботу на найвищому рівні, результатом чого є хороший і постійно оновлюваний асортимент, який розрахований для всіх вікових груп і соціальних верств населення, і відповідає самим вимогливим смакам покупця.</p>
+    </div>
+   <br>
+   <br>
+    <h2 id="kat">КАТАЛОГ</h2>
+    <section class="gallery">
+        <article>
+    <img class="gallery_img"src="https://images.prom.ua/3035634398_w321_h266_zhinochi-shkarpetki.jpg" width="300px" height="250px">
+    <a class="article-but" href="https://panchohakh.in.ua/ua/g93274696-zhenskie-noski" >ЖЕНСКИЕ НОСКИ</a>
+        </article>
+         <article>
+     <img class="gallery_img"src="https://images.prom.ua/3031139739_w321_h266_zhinochi-ta-cholovichi.jpg" width="300px" height="250px">
+            <a class="article-but" href="https://panchohakh.in.ua/ua/g94458113-domashnie-tapki">ЖЕНСКИЕ ПИЖАМЫ </a>
+        </article>
+
+        <article>
+            <img class="gallery_img"src="https://images.prom.ua/3040883030_w321_h266_cholovichi-shkarpetki.jpg" width="300px" height="250px">
+        <a class="article-but" href="https://panchohakh.in.ua/ua/g94458871-zhenskie-muzhskie-pizhamy">МУЖСКИЕ НОСКИ</a>
+        </article>
+
+        <article>
+             <img class="gallery_img"src="https://images.prom.ua/2898662930_w321_h266_domashni-tapki.jpg" width="300px" height="250px">
+    <a class="article-but" href="https://panchohakh.in.ua/ua/g93255857-muzhskie-noski">ДОМАШНИЕ ТАПКИ </a>
+        </article>
+
+        <article>
+    <img class="gallery_img"src="https://images.prom.ua/3035614182_w321_h266_dityachi-kolgotki.jpg" width="300px" height="250px">
+     <a class="article-but" href="https://panchohakh.in.ua/ua/g93316494-detskie-kolgotki">ДЕТСКИЕ КОЛГОТКИ</a>
+        </article>
+
+        <article>
+    <img class="gallery_img" src="https://images.prom.ua/3035607763_w321_h266_dityachi-shkarpetki.jpg" width="300px" height="250px">
+         <a class="article-but" href="https://panchohakh.in.ua/ua/g93316494-detskie-kolgotki">ДЕТСКИЕ ШКАРПЕТКИ</a>
+        </article>
+    </section>
+
+    
+    <h3 id="review">ОТЗЫВЫ</h3><br>
+    <img class="review_logo" src="review.png">
+    <p>Отличный магазин хорошые продавцы!</p>    
+    <br>
+	 <br>
+    <img class="review_logo" src="review.png">
+     <p>Очень быстро приходять заказы</p>
+	<br>
+	 <br>
+    <img class="review_logo" src="review.png">
+     <p>Супер ассортимент!</p>
+	<br>
+	 <br>
+    <img class="review_logo" src="review.png">
+     <p>Низкие цены, хорошее качество</p>
+	
+   <br>
+   <br>
+   <div class="map">
+    <h4 id="adres">Где мы находимся</h4>
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2566.872562774393!2d36.3581692!3d49.957493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41270bb8e365103b%3A0x1c08f1addb8b0aec!2sHeroiv%20Kharkova%20Ave%2C%20252%2C%20Kharkiv%2C%20Kharkivs&#39;ka%20oblast%2C%20Ukraine%2C%2061000!5e0!3m2!1sen!2sch!4v1658525520531!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+</main>
+<footer>
+	<h4> Как с нами связаться</h4>
+    <a class"lop"href="https://www.instagram.com/panchohakh/">Ссылка на наш магазин в социальных сетях<IMG src="https://play-lh.googleusercontent.com/9RDn3svJQD6yLR19uAJl_KeoqZDXbykuC5jcPKQb127YI-v8i3SIDkj9kHLVYtLeqQ"></a>
+    
+    <p><b>Наш номер телефона: 380673131313</b></p>
+    
+</footer>
+</body>
+</html>
