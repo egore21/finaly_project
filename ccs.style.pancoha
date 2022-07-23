@@ -1,0 +1,140 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top{
+	background-color: lightcoral;    
+	height:55px;
+}
+.logo{
+  float:left;
+  height:100px;
+  width:100px;
+}
+header h1{
+   margin: 1em 0 0.5em 0;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: #00caa6;
+    font-style: italic;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 58px;
+    line-height: 54px;
+    text-shadow: 2px 5px 0 rgba(0,0,0,0.2);
+    text-align: center;
+ 
+}
+nav a{
+    margin:60px;
+    text-decoration: none;
+     color: pink;
+    font-size: 22px;
+    line-height: 40px;
+    font-weight: 100;
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+main {
+
+}
+.gallery{
+    flex-wrap: wrap;
+    display: flex;
+	width:80%;
+    margin:0 auto;
+
+}
+article {
+    background-color: white;
+    padding:15px ;
+    width: 400px;
+    margin:15px ;
+}
+.gallery_img{
+   width: 300px;
+  height: 300px;
+  border: 4px double #bd6c46; /* Рамка */
+  overflow: hidden;
+  -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+
+.gallery_img:hover{
+	border-radius: 50%;
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+.article-but {
+    text-decoration: none;
+    color: #148773;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+h2{
+    text-align: center;
+    margin: 1em 0 0.5em 0;
+    color: #148773;
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h3{
+    margin-top: 70px;
+    text-align: center;
+    margin: 1em 0 0.5em 0;
+    color: #148773;
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h4{
+    text-align: center;
+    margin: 1em 0 0.5em 0;
+    color: #148773;
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.review_logo{
+	float:left;
+}
+
+.photo {
+   float:left;
+   shape-outside: circle(50%);
+   width:300px;
+   height:300px;
+}
+.article-butha  img:hover{
+    height: 500px;
+}
+
+.map{
+	text-align:center;
+}
+footer{
+  background-color: lightcoral;    
+}
+footer img{
+    height:55px;
+    width: 55px;
+    
+}
+.lop{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
